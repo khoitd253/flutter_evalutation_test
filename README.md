@@ -4,8 +4,10 @@
 
 This is a simple Flutter mobile app that lets users search for and buy drinks.
 
-<img src="https://github.com/khoitd253/evaluation_test/assets/149985789/87e318d0-10f1-4ead-920b-b9b8eb4f4c8b" height="700" />
-<img src="https://github.com/khoitd253/evaluation_test/assets/149985789/a7f2fbf0-d397-4088-a51a-c50e2a03cb6a" height="700" />
+https://github.com/khoitd253/flutter_evalutation_test/assets/149985789/e3bd1989-d93c-4325-be2f-cfa8edcd03ba
+
+<img src="https://github.com/khoitd253/flutter_evalutation_test/assets/149985789/9f58c8ed-9d68-4826-b7b9-f9924f48ad4e" height="700" />
+<img src="https://github.com/khoitd253/flutter_evalutation_test/assets/149985789/00ab04db-401b-4f57-ba52-736e76191a4d" height="700" />
 
 # Requirements
 
@@ -39,4 +41,4 @@ After you have finished your work, please submit it as followed:
 
 # Resources
 - Figma: [Link](https://www.figma.com/file/RjeIVQXNsLaNMLKXRyLNYh/UI-Evaluation-Test---Mobile-team?type=design&node-id=0%3A1&mode=design&t=SRTQYn7SzliD1HX4-1)
-- Mock data:
+- Mock data: [JSON](data/)
