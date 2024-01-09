@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name": "Bánh quy",
+    "price": 5000.0
+  },
+  {
+    "id": 2,
+    "name": "Bánh bông lan trứng muối",
+    "price": 15000.0
+  },
+  {
+    "id": 3,
+    "name": "Bơ sữa",
+    "price": 10000.0
+  },
+  {
+    "id": 4,
+    "name": "Thạch rau câu",
+    "price": 8000.0
+  }
+]
