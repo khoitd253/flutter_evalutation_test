@@ -41,8 +41,6 @@ After you have finished your work, please submit it as followed:
 
 # Resources
 
--
-
-Figma: [Link](https://www.figma.com/file/RjeIVQXNsLaNMLKXRyLNYh/UI-Evaluation-Test---Mobile-team?type=design&node-id=0%3A1&mode=design&t=SRTQYn7SzliD1HX4-1)
+- Figma: [Link](https://www.figma.com/file/RjeIVQXNsLaNMLKXRyLNYh/UI-Evaluation-Test---Mobile-team?type=design&node-id=0%3A1&mode=design&t=SRTQYn7SzliD1HX4-1)
 
 - Mock data: [JSON](data/)
